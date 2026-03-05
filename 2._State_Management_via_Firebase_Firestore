@@ -1,0 +1,3 @@
+- Mission state persistence with checkpointing
+- Resume capability from any failure point
+- Audit trail for debugging

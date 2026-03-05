@@ -1,0 +1,4 @@
+- API Communication Layer (isolated timeout handling)
+- Financial Modeling Engine (pure functions, offline-capable)
+- Persistence Service (Firebase abstraction)
+- Synthetic Data Generator (validation without external dependencies)
